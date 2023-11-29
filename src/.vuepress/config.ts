@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/vuepresss/",
 
   lang: "zh-CN",
-  title: "文档演示",
+  title: "丁善伟",
   description: "vuepress-theme-hope 的文档演示",
 
   theme,
