@@ -147,6 +147,29 @@ highlights:
   #       details: 通过 Reveal.js 在 Markdown 中插入幻灯片
   #       link: https://theme-hope.vuejs.press/zh/guide/markdown/revealjs.html
 
+  - header: 在 Markdown 中添加你想要的内容
+    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: Google
+        icon: clipboard-check
+        # details: 检查 Markdown 链接
+        link: https://www.google.com.hk/
+      - title: Bing
+        icon: clipboard-check
+        # details: 检查 Markdown 链接
+        link: https://www.bing.com/       
+
+
+
+
+
+
   # - header: 布局
   #   description: 一个带有完整无障碍支持的响应式布局。
   #   image: /assets/image/layout.svg
@@ -212,6 +235,18 @@ highlights:
   #       icon: image
   #       details: 像相册一样允许你浏览、缩放并分享你的页面图片
   #       link: https://theme-hope.vuejs.press/zh/guide/feature/photo-swipe.html
+
+
+
+
+
+
+
+
+
+
+
+
 
   # - header: 博客
   #   description: 通过主题创建个人博客
