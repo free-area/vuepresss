@@ -8,6 +8,7 @@ cd src/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
+git branch -M main
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # 修改为你的                github用户名/仓库名
 git push -f https://github.com/free-area/vuepresss.git main:gh-pages
