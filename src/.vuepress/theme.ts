@@ -8,7 +8,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
+    name: "Shanwei",
     url: "https://mister-hope.com",
   },
   
@@ -56,7 +56,8 @@ export default hopeTheme({
       mathjax: true,
       align: true,
       attrs: true,
-
+      footnote:true,
+      tasklist:true,
       // install chart.js before enabling it
       // chart: true,
 
@@ -125,7 +126,7 @@ export default hopeTheme({
     },
 
 
-    
+
     // uncomment these if you want a pwa
     // pwa: {
     //   favicon: "/favicon.ico",
