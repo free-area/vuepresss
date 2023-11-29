@@ -1,1 +1,0 @@
-import{_ as a}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as o,a as e,b as r}from"./app-MWXL2lgm.js";const c={},n=e("h1",{id:"介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#介绍","aria-hidden":"true"},"#"),r(" 介绍")],-1),s=[n];function _(d,i){return t(),o("div",null,s)}const f=a(c,[["render",_],["__file","background.html.vue"]]);export{f as default};
