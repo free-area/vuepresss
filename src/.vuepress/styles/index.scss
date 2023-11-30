@@ -1,4 +1,10 @@
 // place your custom styles here
+:root{
+    --sidebar-width: 14rem;
+}
 .vp-sidebar{
-    width: 14rem;
+    width: var(--sidebar-width);
+}
+.toggle-sidebar-wrapper{
+    inset-inline-start: var(--sidebar-width);
 }
