@@ -1,5 +1,12 @@
 ---
-title: 引入
-icon: lightbulb
+title: 神经常微分方程
+headerDepth: 2
 ---
+
+*  [预备知识.md](预备知识.md) 
+*  [定义.md](定义.md) 
+
+* [表示和逼近能力.md](表示和逼近.md)
+*  [优化算法.md](优化算法.md) 
+*  [设计网络架构.md](网络结构.md) 
 

@@ -24,9 +24,9 @@ export default navbar([
   },
   {
     text: "深度学习",
-    icon: "lightbulb",
+    icon: "book",
     prefix: "/dl/",
-    children: ["basic.md","neural_de/"],
+    children: ["basic.md",{text:"神经微分方程",link:"neural_de/"}],
   },
   {
     text: "V2 文档",

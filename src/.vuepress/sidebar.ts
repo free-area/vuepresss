@@ -18,12 +18,12 @@ export default sidebar({
     },
     "slides",
   ],
-  "/dl/neural_de/":["background.md",
+  "/dl/neural_de/":[
     {
-      text: "神经常微分方程",
+      text: "神经微分方程",
       icon: "book",
-      prefix: "node/",
-      children: "structure",
+      children: ["绪论.md","node/","cnf/","irs/"],
+
     }
   ]
 });
